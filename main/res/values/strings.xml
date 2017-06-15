@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RepositorySearch</string>
+    <string name="button_search">Search</string>
+    <string name="nothing_found">nothing found</string>
+    <string name="incorrect_query">incorrect query</string>
+    <string name="connection_problems">problems with internet connection</string>
+</resources>
